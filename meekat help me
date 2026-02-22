@@ -1,4 +1,4 @@
-git remote add origin https://github.com/jeromeshhh/meekat.git
+sagit remote add origin https://github.com/jeromeshhh/meekat.git
 git branch -M main
 git push -u origin main echo "# rawr" >> README.md
 git init
@@ -28,3 +28,4 @@ v
 cx
 vc
 cx
+sa
